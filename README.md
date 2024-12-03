@@ -24,7 +24,7 @@ python --version
 ### Setting up the Project
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/ecommerce-flet.git
+    git clone https://github.com/Abdulraheem232/FrontendEccomerce-Flet.git
     cd ecommerce-flet
     ```
 
